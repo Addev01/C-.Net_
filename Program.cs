@@ -1,14 +1,7 @@
-﻿//using TareasBucleFor.DimensionesTriangulos;
+﻿using NominaEmpleados.EmpresaN;
 
 
-//CalcularDimensiones CalcularDimensiones = new CalcularDimensiones();
-//CalcularDimensiones.CalcularTriangulos();
+LeerSueldo leersueldo = new LeerSueldo();
+ leersueldo.CalcularSueldos();
 
-
-using TareasBucleFor.ultimos5;
-
-ContarDivisibles ContarDivisibles = new ContarDivisibles();
-ContarDivisibles.Contar();
-
-
-
+    
