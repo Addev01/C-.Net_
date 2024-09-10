@@ -1,7 +1,8 @@
-﻿using NominaEmpleados.EmpresaN;
+﻿using areaTrinagulo.Triangulos;
+
+CalcularArea calcular = new CalcularArea();
+
+calcular.ProcesarTriangulos();
 
 
-LeerSueldo leersueldo = new LeerSueldo();
- leersueldo.CalcularSueldos();
 
-    
